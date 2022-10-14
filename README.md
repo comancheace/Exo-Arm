@@ -17,12 +17,15 @@ For the Exo Hand:
 
 - 5 Flex Sensors
 https://pt.aliexpress.com/item/1005001446763375.html
+<img src="https://github.com/comancheace/Exo-Arm/blob/main/schematics/schematics_exo_hand.jpg" width="100%">
+
 - 5 10K Resistors
 - Arduino Uno
 - Bike Glove
 - 3D Printing Filament PLA
 - 5 servo motors SG90
 https://amzn.eu/d/8dq6vwL
+<img src="https://github.com/comancheace/Exo-Arm/blob/main/schematics/servo_motors.jpg" width="100%">
 - Jumper Wires
 
 For each finger (5X):
@@ -40,6 +43,7 @@ For the Exo Arm:
 - 2 potenciometer
 - 2 servo motor 35 Kg/cm
 https://amzn.eu/d/cAlyL9d
+<img src="https://github.com/comancheace/Exo-Arm/blob/main/schematics/servo_motors_35_kg.jpg" width="100%">
 
 Please make this project at your own risk!
 
