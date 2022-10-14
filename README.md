@@ -29,12 +29,12 @@ List of materials:
   <img src="https://github.com/comancheace/Exo-Arm/blob/main/schematics/servo_motors.jpg" width="100%">
   - Jumper Wires
 
-  For each finger (5X):
+    For each finger (5X):
 
-  - 4 x M3 10 screw bolt
-  - 1 x M3 18 screw bolt
-  - 1 x M3 20 screw bolt
-  - 8 x M3 nuts plastic
+    - 4 x M3 10 screw bolt
+    - 1 x M3 18 screw bolt
+    - 1 x M3 20 screw bolt
+    - 8 x M3 nuts plastic
 
  - For the Exo Arm:
 
