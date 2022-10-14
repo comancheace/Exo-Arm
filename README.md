@@ -21,13 +21,14 @@ List of materials:
   <img src="https://github.com/comancheace/Exo-Arm/blob/main/schematics/schematics_exo_hand.jpg" width="100%">
 
   - 5 10K Resistors
+  - Jumper Wires
   - Arduino Uno
   - Bike Glove
   - 3D Printing Filament PLA
   - 5 servo motors SG90
   https://amzn.eu/d/8dq6vwL
   <img src="https://github.com/comancheace/Exo-Arm/blob/main/schematics/servo_motors.jpg" width="100%">
-  - Jumper Wires
+  
 
     For each finger (5X):
 
