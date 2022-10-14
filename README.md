@@ -16,6 +16,7 @@ List of materials:
 - For the Exo Hand:
 
   - 5 Flex Sensors
+  Schematics:
   https://pt.aliexpress.com/item/1005001446763375.html
   <img src="https://github.com/comancheace/Exo-Arm/blob/main/schematics/schematics_exo_hand.jpg" width="100%">
 
@@ -41,7 +42,9 @@ List of materials:
   - 3D Printing Filament PLA
   - Jumper Wires
   - 2 potenciometer
-    - Schematics
+  Schematics:
+      Nice tutorial here!
+      https://www.instructables.com/2-Potentiometers-2-Servos-Controlled-Motion-With-A/
       <img src="https://github.com/comancheace/Exo-Arm/blob/main/schematics/schematics_exo_arm.jpg" width="100%">
 
   
