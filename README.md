@@ -39,25 +39,18 @@ List of materials:
 
  - For the Exo Arm:
 
-  - Arduino Uno
-  - 3D Printing Filament PLA
-  - Jumper Wires
-  - 2 potenciometer
-  Schematics:
+    - Arduino Uno
+    - 3D Printing Filament PLA
+    - Jumper Wires
+    - 2 potenciometer
+    Schematics:
       Nice tutorial here!
       https://www.instructables.com/2-Potentiometers-2-Servos-Controlled-Motion-With-A/
       <img src="https://github.com/comancheace/Exo-Arm/blob/main/schematics/schematics_exo_arm.jpg" width="100%">
 
   
-  - 2 servo motor 35 Kg/cm
+    - 2 servo motor 35 Kg/cm
   https://amzn.eu/d/cAlyL9d
-  <img src="https://github.com/comancheace/Exo-Arm/blob/main/schematics/servo_motors_35_kg.jpg" width="100%">
-
-  
-
-
-  Image source:
-  https://www.instructables.com/2-Potentiometers-2-Servos-Controlled-Motion-With-A/
   <img src="https://github.com/comancheace/Exo-Arm/blob/main/schematics/servo_motors_35_kg.jpg" width="100%">
 
 Please make this project at your own risk!
