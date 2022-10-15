@@ -21,6 +21,7 @@ List of materials:
   <img src="https://github.com/comancheace/Exo-Arm/blob/main/schematics/schematics_exo_hand.jpg" width="100%">
 
   - 5 10K Resistors
+  - 2 Meters of 2mm steel wire
   - Jumper Wires
   - Arduino Uno
   - Bike Glove
