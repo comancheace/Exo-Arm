@@ -60,6 +60,8 @@ Work in progress!
 
 It is an early stage of development!
 
+All images outside the project are properly linked to the author for copyrights!
+
 Thank you!
 
 Kind regards!
