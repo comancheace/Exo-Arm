@@ -23,6 +23,7 @@ List of materials:
   - 5 x 10K Resistors
   - 2 Meters of 2mm steel wire
   - Jumper Wires
+  - ~20 x Cable ties 3.6 x 200 mm
   - Arduino Uno
   - Bike Glove
   - 3D Printing Filament PLA
@@ -43,6 +44,7 @@ List of materials:
     - Arduino Uno
     - 3D Printing Filament PLA
     - Jumper Wires
+    - ~25 x Cable ties 3.6 x 200 mm
     - 2 x potenciometer
     Schematics:
       Nice tutorial here!
