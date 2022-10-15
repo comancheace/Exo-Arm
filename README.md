@@ -3,13 +3,13 @@ An Open Source project to help people with less strength in arms and hands
 
 Work in progress!
 
-Please don't print any 3D file for now!
+All 3D STL files are scaled properly now!
+
+Please see the images for reference for assembly of the project!
+
+https://github.com/comancheace/Exo-Arm/tree/main/images
 
 Project still in development!
-
-Please scale all Exo Arm STL files for 24959.5% percent for now!
-
-Please scale all Exo Hand STL files for 8000% percent for now!
 
 List of materials:
 
