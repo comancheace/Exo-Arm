@@ -20,13 +20,13 @@ List of materials:
   https://pt.aliexpress.com/item/1005001446763375.html
   <img src="https://github.com/comancheace/Exo-Arm/blob/main/schematics/schematics_exo_hand.jpg" width="100%">
 
-  - 5 10K Resistors
+  - 5 x 10K Resistors
   - 2 Meters of 2mm steel wire
   - Jumper Wires
   - Arduino Uno
   - Bike Glove
   - 3D Printing Filament PLA
-  - 5 servo motors SG90
+  - 5 x servo motors SG90
   https://amzn.eu/d/8dq6vwL
   <img src="https://github.com/comancheace/Exo-Arm/blob/main/schematics/servo_motors.jpg" width="100%">
   
@@ -43,14 +43,14 @@ List of materials:
     - Arduino Uno
     - 3D Printing Filament PLA
     - Jumper Wires
-    - 2 potenciometer
+    - 2 x potenciometer
     Schematics:
       Nice tutorial here!
       https://www.instructables.com/2-Potentiometers-2-Servos-Controlled-Motion-With-A/
       <img src="https://github.com/comancheace/Exo-Arm/blob/main/schematics/schematics_exo_arm.jpg" width="100%">
 
   
-    - 2 servo motor 35 Kg/cm
+    - 2 x servo motor 35 Kg/cm
   https://amzn.eu/d/cAlyL9d
   <img src="https://github.com/comancheace/Exo-Arm/blob/main/schematics/servo_motors_35_kg.jpg" width="100%">
 
