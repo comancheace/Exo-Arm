@@ -60,7 +60,7 @@ Please make this project at your own risk!
 
 Work in progress!
 
-It is an early stage of development!
+It is in a early stage of development!
 
 All images outside the project are properly linked to the author for copyrights!
 
