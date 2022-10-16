@@ -25,10 +25,10 @@ int val5B;
 
 void setup() {
   myservo.attach(8); // attaches the servo on pin 8 to the servo object
-  myservo2.attach(9); // attaches the servo on pin 8 to the servo object
-  myservo3.attach(10); // attaches the servo on pin 8 to the servo object
-  myservo4.attach(11); // attaches the servo on pin 8 to the servo object
-  myservo5.attach(12); // attaches the servo on pin 8 to the servo object
+  myservo2.attach(9); // attaches the servo on pin 9 to the servo object
+  myservo3.attach(10); // attaches the servo on pin 10 to the servo object
+  myservo4.attach(11); // attaches the servo on pin 11 to the servo object
+  myservo5.attach(12); // attaches the servo on pin 12 to the servo object
   Serial.begin(9600); //Begin serial communication
 }
 
