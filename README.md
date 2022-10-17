@@ -38,6 +38,8 @@ List of materials:
     - 1 x M3 18 screw bolt
     - 1 x M3 20 screw bolt
     - 8 x M3 nuts plastic
+    
+    https://www.aliexpress.com/item/1005004330711619.html
 
  - For the Exo Arm:
 
