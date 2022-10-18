@@ -18,6 +18,7 @@ List of materials:
   - 5 Flex Sensors
   Schematics:
   https://pt.aliexpress.com/item/1005001446763375.html
+  [[/schematics/schematics_exo_hand.jpg|schematics_exo_hand]]
   <img src="https://github.com/comancheace/Exo-Arm/blob/main/schematics/schematics_exo_hand.jpg" width="100%">
 
   - 5 x 10K Resistors
