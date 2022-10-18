@@ -34,15 +34,20 @@ void setup() {
 
 void loop() {
   val1 = analogRead(flexPin);
-  val1B = map(val1, 0, 1023, 0, 175); //scale it for use with the servo (value between 0 and 175) -> Calibration of the first 2 values may be needed depending on the design your data glove
+  val1B = map(val1, 0, 1023, 0, 175); //scale it for use with the servo (value between 0 and 175)
+  // Calibration of the first 2 values may be needed depending on the design your data glove
   val2 = analogRead(flexPin2);
-  val2B = map(val2, 0, 1023, 0, 175); //scale it for use with the servo (value between 0 and 175) -> Calibration of the first 2 values may be needed depending on the design your data glove
+  val2B = map(val2, 0, 1023, 0, 175); //scale it for use with the servo (value between 0 and 175)
+  // Calibration of the first 2 values may be needed depending on the design your data glove
   val3 = analogRead(flexPin3);
-  val3B = map(val3, 0, 1023, 0, 175); //scale it for use with the servo (value between 0 and 175) -> Calibration of the first 2 values may be needed depending on the design your data glove
+  val3B = map(val3, 0, 1023, 0, 175); //scale it for use with the servo (value between 0 and 175)
+  // Calibration of the first 2 values may be needed depending on the design your data glove
   val4 = analogRead(flexPin4);
-  val4B = map(val4, 0, 1023, 0, 175); //scale it for use with the servo (value between 0 and 175) -> Calibration of the first 2 values may be needed depending on the design your data glove
+  val4B = map(val4, 0, 1023, 0, 175); //scale it for use with the servo (value between 0 and 175)
+  // Calibration of the first 2 values may be needed depending on the design your data glove
   val5 = analogRead(flexPin5);
-  val5B = map(val5, 0, 1023, 0, 175); //scale it for use with the servo (value between 0 and 175) -> Calibration of the first 2 values may be needed depending on the design your data glove
+  val5B = map(val5, 0, 1023, 0, 175); //scale it for use with the servo (value between 0 and 175)
+  //Calibration of the first 2 values may be needed depending on the design your data glove
 
   String p1=";";
   Serial.println(val1 + p1 + val2 + p1 + valB + p1 + val4 + p1 + val5); // Print values of the variables from the analog inputs
