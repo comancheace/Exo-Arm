@@ -58,5 +58,5 @@ void loop() {
   myservo3.write(val3B); // sets the servo position according to the scaled value
   myservo4.write(val4B); // sets the servo position according to the scaled value
   myservo5.write(val5B); // sets the servo position according to the scaled value
-  delay(15); // waits for the servo to get there
+  delay(150); // waits for the servo to get there
 }
