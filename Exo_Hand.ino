@@ -47,11 +47,11 @@ void loop() {
   // Calibration of the first 2 values may be needed depending on the design your data glove
   val5 = analogRead(flexPin5);
   val5B = map(val5, 0, 1023, 0, 175); //scale it for use with the servo (value between 0 and 175)
-  //Calibration of the first 2 values may be needed depending on the design your data glove
+  // Calibration of the first 2 values may be needed depending on the design your data glove
 
   String p1=";";
   Serial.println(val1 + p1 + val2 + p1 + valB + p1 + val4 + p1 + val5); // Print values of the variables from the analog inputs
-  //Serial.println(val1B + p1 + val2B + p1 + val3B + p1 + val4B + p1 + val5B); // Print values of the variables from servo motors angles
+  // Serial.println(val1B + p1 + val2B + p1 + val3B + p1 + val4B + p1 + val5B); // Print values of the variables from servo motors angles
   
   myservo.write(val1B); // sets the servo position according to the scaled value
   myservo2.write(val2B); // sets the servo position according to the scaled value
