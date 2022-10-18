@@ -3,8 +3,8 @@
 Servo myservo; // create servo object to control a servo
 Servo myservo_2; // create servo object to control a servo
 
-int potpin = A0; // analog pin used to connect the potentiometer
-int potpin_2 = A1; // analog pin used to connect the potentiometer 2
+int potpin = A0; // A0 analog pin used to connect the potentiometer
+int potpin_2 = A1; // A1 analog pin used to connect the potentiometer 2
 int val; // variable to read the value from the analog pin
 int val_2; // variable to read the value from the analog pin 2
 
