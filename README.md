@@ -29,7 +29,7 @@ List of materials:
   - 3D Printing Filament PLA
   - 5 x servo motors SG90
   https://amzn.eu/d/8dq6vwL
-  <img src="https://github.com/comancheace/Exo-Arm/blob/main/schematics/servo_motors.jpg" width="100%">
+  <img src="/schematics/servo_motors.jpg" width="100%">
   
 
     For each finger (5X):
@@ -51,12 +51,12 @@ List of materials:
     Schematics:
       Nice tutorial here!
       https://www.instructables.com/2-Potentiometers-2-Servos-Controlled-Motion-With-A/
-      <img src="https://github.com/comancheace/Exo-Arm/blob/main/schematics/schematics_exo_arm.jpg" width="100%">
+      <img src="/schematics/schematics_exo_arm.jpg" width="100%">
 
   
     - 2 x servo motor 35 Kg/cm
   https://amzn.eu/d/cAlyL9d
-  <img src="https://github.com/comancheace/Exo-Arm/blob/main/schematics/servo_motors_35_kg.jpg" width="100%">
+  <img src="/schematics/servo_motors_35_kg.jpg" width="100%">
 
 Please make this project at your own risk!
 
