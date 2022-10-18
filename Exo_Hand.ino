@@ -1,4 +1,4 @@
-#include <Servo.h>
+#include <Servo.h> // Arduino Servo Motor Library
 
 Servo myservo; // create servo object to control a servo
 Servo myservo2; // create servo object to control a servo
