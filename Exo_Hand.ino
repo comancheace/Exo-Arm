@@ -34,18 +34,19 @@ void setup() {
 
 void loop() {
   val1 = analogRead(flexPin);
-  val1B = map(val1, 0, 1023, 0, 90); //scale it for use with the servo (value between 0 and 90)
+  val1B = map(val1, 0, 1023, 0, 165); //scale it for use with the servo (value between 0 and 90)
   val2 = analogRead(flexPin2);
-  val2B = map(val2, 0, 1023, 0, 90); //scale it for use with the servo (value between 0 and 90)
+  val2B = map(val2, 0, 1023, 0, 165); //scale it for use with the servo (value between 0 and 90)
   val3 = analogRead(flexPin3);
-  val3B = map(val3, 0, 1023, 0, 90); //scale it for use with the servo (value between 0 and 90)
+  val3B = map(val3, 0, 1023, 0, 165); //scale it for use with the servo (value between 0 and 90)
   val4 = analogRead(flexPin4);
-  val4B = map(val4, 0, 1023, 0, 90); //scale it for use with the servo (value between 0 and 90)
+  val4B = map(val4, 0, 1023, 0, 165); //scale it for use with the servo (value between 0 and 90)
   val5 = analogRead(flexPin5);
-  val5B = map(val5, 0, 1023, 0, 90); //scale it for use with the servo (value between 0 and 90)
+  val5B = map(val5, 0, 1023, 0, 165); //scale it for use with the servo (value between 0 and 90)
 
   String p1=";";
   Serial.println(val1 + p1 + val2 + p1 + valB + p1 + val4 + p1 + val5);
+  //Serial.println(val1B + p1 + val2B + p1 + val3B + p1 + val4B + p1 + val5B);
   
   myservo.write(val1B); // sets the servo position according to the scaled value
   myservo2.write(val2B); // sets the servo position according to the scaled value
