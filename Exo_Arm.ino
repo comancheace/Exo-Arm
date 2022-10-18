@@ -1,4 +1,4 @@
-#include <Servo.h>
+#include <Servo.h> // Arduino Servo Motor Library
 
 Servo myservo; // create servo object to control a servo
 Servo myservo_2; // create servo object to control a servo
@@ -20,5 +20,5 @@ void loop() {
   val_2 = map(val_2, 0, 1023, 0, 180); // scale it for use with the servo (value between 0 and 180)
   myservo.write(val); // sets the servo position according to the scaled value
   myservo_2.write(val_2); // sets the servo position according to the scaled value
-  delay(15); // waits for the servo to get there
+  delay(150); // waits for the servo to get there
 }
