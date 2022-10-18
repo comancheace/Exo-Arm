@@ -12,15 +12,15 @@ const int flexPin3 = A2; //pin A2 to read analog input
 const int flexPin4 = A3; //pin A3 to read analog input
 const int flexPin5 = A4; //pin A4 to read analog input
 
-int val1;    // variable to read the value from the analog pin
+int val1;    // variable to read the value from the analog pin A0
 int val1B;
-int val2;    // variable to read the value from the analog pin
+int val2;    // variable to read the value from the analog pin A1
 int val2B;
-int val3;    // variable to read the value from the analog pin
+int val3;    // variable to read the value from the analog pin A2
 int val3B;
-int val4;    // variable to read the value from the analog pin
+int val4;    // variable to read the value from the analog pin A3
 int val4B;
-int val5;    // variable to read the value from the analog pin
+int val5;    // variable to read the value from the analog pin A4
 int val5B;
 
 void setup() {
