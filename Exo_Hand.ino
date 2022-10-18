@@ -12,16 +12,16 @@ const int flexPin3 = A2; //pin A2 to read analog input
 const int flexPin4 = A3; //pin A3 to read analog input
 const int flexPin5 = A4; //pin A4 to read analog input
 
-int val1;    // variable to read the value from the analog pin A0
-int val1B;
-int val2;    // variable to read the value from the analog pin A1
-int val2B;
-int val3;    // variable to read the value from the analog pin A2
-int val3B;
-int val4;    // variable to read the value from the analog pin A3
-int val4B;
-int val5;    // variable to read the value from the analog pin A4
-int val5B;
+int val1; // variable to read the value from the analog pin A0
+int val1B; //scaled variable for use with the servo 1
+int val2; // variable to read the value from the analog pin A1
+int val2B; //scaled variable for use with the servo 2
+int val3; // variable to read the value from the analog pin A2
+int val3B; //scaled variable for use with the servo 3
+int val4; // variable to read the value from the analog pin A3
+int val4B; //scaled variable for use with the servo 4
+int val5; // variable to read the value from the analog pin A4
+int val5B; //scaled variable for use with the servo 5
 
 void setup() {
   myservo.attach(8); // attaches the servo on pin 8 to the servo object
@@ -34,19 +34,19 @@ void setup() {
 
 void loop() {
   val1 = analogRead(flexPin);
-  val1B = map(val1, 0, 1023, 0, 165); //scale it for use with the servo (value between 0 and 90)
+  val1B = map(val1, 0, 1023, 0, 165); //scale it for use with the servo (value between 0 and 165)
   val2 = analogRead(flexPin2);
-  val2B = map(val2, 0, 1023, 0, 165); //scale it for use with the servo (value between 0 and 90)
+  val2B = map(val2, 0, 1023, 0, 165); //scale it for use with the servo (value between 0 and 165)
   val3 = analogRead(flexPin3);
-  val3B = map(val3, 0, 1023, 0, 165); //scale it for use with the servo (value between 0 and 90)
+  val3B = map(val3, 0, 1023, 0, 165); //scale it for use with the servo (value between 0 and 165)
   val4 = analogRead(flexPin4);
-  val4B = map(val4, 0, 1023, 0, 165); //scale it for use with the servo (value between 0 and 90)
+  val4B = map(val4, 0, 1023, 0, 165); //scale it for use with the servo (value between 0 and 165)
   val5 = analogRead(flexPin5);
-  val5B = map(val5, 0, 1023, 0, 165); //scale it for use with the servo (value between 0 and 90)
+  val5B = map(val5, 0, 1023, 0, 165); //scale it for use with the servo (value between 0 and 165)
 
   String p1=";";
-  Serial.println(val1 + p1 + val2 + p1 + valB + p1 + val4 + p1 + val5);
-  //Serial.println(val1B + p1 + val2B + p1 + val3B + p1 + val4B + p1 + val5B);
+  Serial.println(val1 + p1 + val2 + p1 + valB + p1 + val4 + p1 + val5); // Print values of the variables from the analog inputs
+  //Serial.println(val1B + p1 + val2B + p1 + val3B + p1 + val4B + p1 + val5B); // Print values of the variables from servo motors angles
   
   myservo.write(val1B); // sets the servo position according to the scaled value
   myservo2.write(val2B); // sets the servo position according to the scaled value
