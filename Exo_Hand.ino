@@ -1,10 +1,10 @@
 #include <Servo.h>
 
-Servo myservo;  // create servo object to control a servo
-Servo myservo2;  // create servo object to control a servo
-Servo myservo3;  // create servo object to control a servo
-Servo myservo4;  // create servo object to control a servo
-Servo myservo5;  // create servo object to control a servo
+Servo myservo; // create servo object to control a servo
+Servo myservo2; // create servo object to control a servo
+Servo myservo3; // create servo object to control a servo
+Servo myservo4; // create servo object to control a servo
+Servo myservo5; // create servo object to control a servo
 
 const int flexPin = A0; //pin A0 to read analog input
 const int flexPin2 = A1; //pin A1 to read analog input
