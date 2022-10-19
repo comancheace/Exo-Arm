@@ -21,7 +21,7 @@ List of materials:
   <img src="/schematics/schematics_exo_hand.jpg" width="100%">
 
   - 5 x 10K Resistors
-  - 2 Meters of 2mm steel wire
+  - ~2 Meters of 2mm steel wire
   - Jumper Wires
   - ~20 x Cable ties 3.6 x 200 mm
   - Arduino Uno
