@@ -5,6 +5,10 @@ Work in progress!
 
 All 3D STL files are scaled properly now!
 
+I have added 3D printable snap lock pins for the Exo Hand, if you wish to use instead of the screw bolts and nuts! See in the link below! Thank you!
+
+https://github.com/comancheace/Exo-Arm/blob/main/3D%20files%20Hand%20STL/1_finger_snap_lock_pins.stl
+
 Please see the images for reference for assembly of the project!
 
 https://github.com/comancheace/Exo-Arm/tree/main/images
