@@ -18,6 +18,11 @@ Please see the images for reference for assembly of the project!
     <em>Blender 3.3.0 Screenshot</em>
 </p>
 
+<p>
+    <img src="/images/Exo_Hand/servo_joints_and links.jpg" width="100%">
+    <em>Servo motors joints and links</em>
+</p>
+
 https://github.com/comancheace/Exo-Arm/tree/main/images
 
 Project still in development!
