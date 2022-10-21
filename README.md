@@ -11,8 +11,10 @@ https://github.com/comancheace/Exo-Arm/blob/main/3D%20files%20Hand%20STL/1_finge
 
 Please see the images for reference for assembly of the project!
 
-<img src="/images/Exo%20Hand/snap_lock_pin_finger_version.jpg" width="100%">
-Blender 3.3.0 Screenshot
+<p>
+    <img src="/images/Exo%20Hand/snap_lock_pin_finger_version.jpg" width="100%">
+    <em>Blender 3.3.0 Screenshot</em>
+</p>
 
 https://github.com/comancheace/Exo-Arm/tree/main/images
 
