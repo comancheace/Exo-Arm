@@ -3,6 +3,8 @@ An Open Source project to help people with less strength in arms and hands
 
 Work in progress!
 
+Corrected some geometry in the right hand base and also added a left hand base!
+
 All 3D STL files are scaled properly now!
 
 I have added 3D printable snap lock pins for the Exo Hand, if you wish to use instead of the screw bolts and nuts! See in the link below! Thank you!
