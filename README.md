@@ -19,7 +19,7 @@ Please see the images for reference for assembly of the project!
 </p>
 
 <p>
-    <img src="/images/Exo_Hand/servo_joints_and links.jpg" width="100%">
+    <img src="/images/Exo_Hand/servo_motors_joints_and_links.jpg" width="100%">
     <em>Servo motors joints and links</em>
 </p>
 
