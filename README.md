@@ -15,7 +15,7 @@ Please see the images for reference for assembly of the project!
 
 <p>
     <img src="/images/Exo_Hand/snap_lock_pin_finger_version.jpg" width="100%">
-    <em>Blender 3.3.0 Screenshot</em>
+    <em>Blender 3.3.0 Screenshot showing 3D printable snap lock pins for the Exo Hand</em>
 </p>
 
 <p>
