@@ -11,6 +11,8 @@ https://github.com/comancheace/Exo-Arm/blob/main/3D%20files%20Hand%20STL/1_finge
 
 Please see the images for reference for assembly of the project!
 
+<img src="/images/snap_lock_pin_finger_version_image.jpg" width="100%">
+
 https://github.com/comancheace/Exo-Arm/tree/main/images
 
 Project still in development!
@@ -69,6 +71,10 @@ Work in progress!
 It is in a early stage of development!
 
 All images outside the project are properly linked to the author for copyrights!
+
+All 3D models were modeled in Blender 3.3.0!
+
+https://www.blender.org/
 
 Thank you!
 
